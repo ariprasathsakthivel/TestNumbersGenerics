@@ -1,0 +1,13 @@
+E:\C#\TestMaximum\bin\Debug\netcoreapp3.1\TestMaximum.exe
+E:\C#\TestMaximum\bin\Debug\netcoreapp3.1\TestMaximum.deps.json
+E:\C#\TestMaximum\bin\Debug\netcoreapp3.1\TestMaximum.runtimeconfig.json
+E:\C#\TestMaximum\bin\Debug\netcoreapp3.1\TestMaximum.runtimeconfig.dev.json
+E:\C#\TestMaximum\bin\Debug\netcoreapp3.1\TestMaximum.dll
+E:\C#\TestMaximum\bin\Debug\netcoreapp3.1\TestMaximum.pdb
+E:\C#\TestMaximum\obj\Debug\netcoreapp3.1\TestMaximum.csproj.AssemblyReference.cache
+E:\C#\TestMaximum\obj\Debug\netcoreapp3.1\TestMaximum.AssemblyInfoInputs.cache
+E:\C#\TestMaximum\obj\Debug\netcoreapp3.1\TestMaximum.AssemblyInfo.cs
+E:\C#\TestMaximum\obj\Debug\netcoreapp3.1\TestMaximum.csproj.CoreCompileInputs.cache
+E:\C#\TestMaximum\obj\Debug\netcoreapp3.1\TestMaximum.dll
+E:\C#\TestMaximum\obj\Debug\netcoreapp3.1\TestMaximum.pdb
+E:\C#\TestMaximum\obj\Debug\netcoreapp3.1\TestMaximum.genruntimeconfig.cache
