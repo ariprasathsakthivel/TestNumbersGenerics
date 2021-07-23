@@ -17,7 +17,11 @@ namespace TestMaximum
         public void MaxofThree()
         {
             this.values.Sort();
-            Console.WriteLine(this.values[this.values.Count-1]);
+            this.MaxValueDisplay(this.values.Count-1);
+        }
+        public void MaxValueDisplay(int n)
+        {
+            Console.WriteLine("Maximum values is {0}", this.values[n]);
         }
     }
 }
