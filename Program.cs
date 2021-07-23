@@ -6,9 +6,9 @@ namespace TestMaximum
     {
         static void Main(string[] args)
         {
-            MaxofThree(10,2, 11);
+            MaxofThree(9.9,10.2,10.3);
         }
-        public static void MaxofThree(int num1,int num2,int num3)
+        public static void MaxofThree(double num1,double num2,double num3)
         {
             if (num1.CompareTo(num2)>0 && num1.CompareTo(num3)>0)
             {
